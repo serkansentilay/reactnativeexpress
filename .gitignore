@@ -1,0 +1,43 @@
+# node modules
+node_modules/
+
+# temporary files
+*.log
+*.tmp
+*.swp
+
+# macOS / Windows sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# environment files
+.env
+
+# React Native build files (Android / iOS)
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+ios/Pods/
+ios/DerivedData/
+ios/build/
+
+# metro bundler cache
+.expo/
+.expo-shared/
+.expo-cache/
+.expo/settings.json
+*.expo
+.expo/*
+.expo-shared/*
+
+# React Native packager
+__generated__/
+*.keystore
+
+# coverage tools
+coverage/
+*.lcov
+
+# VS Code settings
+.vscode/
